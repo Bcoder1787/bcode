@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roman Government & Law Education</title>
+    <style>
+        body {
+            font-family: 'Trajan Pro', 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+            background-color: #eee;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #3b5998;
+            color: #fff;
+            border-bottom: 4px solid #ffd700;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #3b5998;
+            border-bottom: 2px solid #3b5998;
+            padding-bottom: 8px;
+            margin-bottom: 16px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: #3b5998;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #ffd700;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #3b5998;
+            color: #fff;
+            border-top: 4px solid #ffd700;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Roman Government & Law Education</h1>
+        <p>Explore the governance and legal system of ancient Rome.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Roman Government Overview</h2>
+            <p>Discover the fascinating structure and key features of the Roman government.</p>
+        </section>
+
+        <section>
+            <h2>Roman Republic</h2>
+            <p>Explore the Senate, magistrates, and assemblies that defined the Roman Republic.</p>
+        </section>
+
+        <section>
+            <h2>Roman Empire</h2>
+            <p>Learn about the transition from the Republic to the Empire and the role of emperors.</p>
+        </section>
+
+        <section>
+            <h2>Roman Law</h2>
+            <p>Delve into the legal system of ancient Rome by exploring <a href="#" target="_blank">The Twelve Tables</a> and <a href="#" target="_blank">Institutes of Justinian</a>.</p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Roman Government & Law Education</p>
+    </footer>
+
+</body>
+</html>
